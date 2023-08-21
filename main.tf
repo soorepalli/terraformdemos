@@ -1,3 +1,3 @@
 terraform {
-
+  //provider information
 }
